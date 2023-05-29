@@ -12,9 +12,22 @@
 </head>
 
 <body>
+    <main class="main-section">
+        <div class="container">
+            <div class="title">
+                <h1>Awesome Books</h1>
+            </div><div class="fav-books">
 
-    <div id="books-list"></div>
-
+            </div>
+            <form action="" id="formID">
+                <input type="text" placeholder="Title" id="book-title" required><br><br>
+                <input type="text" placeholder="Author" id="book-author" required><br><br>
+                <button type="submit" id="submit-button" onclick="logSubmit(event)">Add</button>
+            </form>
+        </div>
+        <div class="out" hidden></div>
+    </main>
+    <script src="/assets/script/script.js"></script>
 </body>
 
 </html>
