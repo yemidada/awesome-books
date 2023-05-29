@@ -11,3 +11,8 @@ body {
   font-weight: 400;
   font-style: normal;
 }
+
+ul,
+li {
+  list-style: none;
+}
