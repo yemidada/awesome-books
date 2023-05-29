@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h3><b>Portfolio: preserve data in the browser</b></h3>
+  <h3><b>Awesome books: plain JavaScript with objects</b></h3>
 
 </div>
 
@@ -26,13 +26,13 @@
 - [📝 License](#license)
 
 
-# 📖 Portfolio: preserve data in the browser <a name="about-project"></a>
+# 📖 Awesome books: plain JavaScript with objects <a name="about-project"></a>
 
-**For this project, I established a repository for my portfolio website. My objective is to develop a complete portfolio website that is responsive on both mobile and web platform.**
+**In this project, we will build a basic website that allows users to add/remove books from a list. You will achieve that by using JavaScript objects and arrays. It will also need to dynamically modify the DOM and add basic events.**
 
 Contact Form:
 
-![screenshot](/assets/images/contact_form.png)
+![screenshot](/assets/images/awesome_books_basic_ui.png)
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -55,11 +55,8 @@ The various stacks used for the project includes the following
 
 ### Key Features <a name="key-features"></a>
 
-- **Learn how to translate a Figma design into a functional UI.**
-- **Utilize Flexbox to position various elements on a web page.**
-- **Utilize CSS Grid to arrange different elements on a web page.**
-- **Develop a portfolio website.**
-- **Develop a mobile popup menu and details popup window.**
+- **Understand different ways to create objects in JavaScript.**
+- **Create and access properties and methods of JavaScript objects.**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -143,7 +140,6 @@ After you clone this repo to your desktop, go to its root directory and run `npm
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **Add animation effect to the css (Animate.css)**
 - [ ] **Improve the designs**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
