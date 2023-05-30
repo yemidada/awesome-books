@@ -133,6 +133,9 @@ After you clone this repo to your desktop, go to its root directory and run `npm
 - Twitter: [@naijavine](https://twitter.com/naijavine)
 - LinkedIn: [yemidada](https://linkedin.com/in/yemidada)
 
+- GitHub: [@yin-ka](https://github.com/yin-ka)
+- LinkedIn: [yusuf-sholotan](https://www.linkedin.com/in/yusuf-sholotan/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
