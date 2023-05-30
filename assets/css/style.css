@@ -4,10 +4,9 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
   background-color: #f4f5f7;
 }
 
 .main-section {
-  padding: 10% 50%;
+  padding: 10% 40%;
 }
