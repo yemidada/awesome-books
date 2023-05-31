@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h3><b>Awesome books: plain JavaScript with objects</b></h3>
+  <h3><b>Awesome books: refactor to use JavaScript classes</b></h3>
 
 </div>
 
@@ -26,13 +26,13 @@
 - [📝 License](#license)
 
 
-# 📖 Awesome books: plain JavaScript with objects <a name="about-project"></a>
+# 📖 Awesome books: refactor to use JavaScript classes <a name="about-project"></a>
 
-**In this project, we will build a basic website that allows users to add/remove books from a list. You will achieve that by using JavaScript objects and arrays. It will also need to dynamically modify the DOM and add basic events.**
+**In this project, we will build a basic website that allows users to add/remove books from a list. You will achieve that by using JavaScript class. It will also need to dynamically modify the DOM and add basic events.**
 
-Contact Form:
 
-![screenshot](/assets/images/awesome_books_basic_ui.png)
+
+![screenshot](/assets/images/awesome_books_core_elements.png)
 
 
 ## 🛠 Built With <a name="built-with"></a>
