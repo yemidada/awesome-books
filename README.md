@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h3><b>Awesome books: refactor to use JavaScript classes</b></h3>
+  <h3><b>Awesome books: a complete website with navigation</b></h3>
 
 </div>
 
@@ -26,13 +26,13 @@
 - [📝 License](#license)
 
 
-# 📖 Awesome books: refactor to use JavaScript classes <a name="about-project"></a>
+# 📖 Awesome books: a complete website with navigation <a name="about-project"></a>
 
-**In this project, we will build a basic website that allows users to add/remove books from a list. You will achieve that by using JavaScript class. It will also need to dynamically modify the DOM and add basic events.**
+**In this project, we take the Awesome books application and convert it into a fully functional website. We ill refactor the project to add three new sections on top of the two sections you have already completed: Books list (done), Add book form (done), a new Contact info section, a Navigation bar, and a Footer..**
 
 
 
-![screenshot](/assets/images/awesome_books_core_elements.png)
+![screenshot](/assets/images/awesome_books_full_website.png)
 
 
 ## 🛠 Built With <a name="built-with"></a>
